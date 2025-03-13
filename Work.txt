@@ -1,0 +1,21 @@
+Host html files on railway
+Main site on railway - basic info how to use 
+-Show an example
+
+
+
+
+How to trigger the code to run - Webhook
+How to store html files in database for railway
+
+User sends email --> recieve email with score, link, and password to the link to view full analysis
+--> Create hmtl file to host, store it, and set something to delete it after 24 hrs
+
+
+
+What to check:
+-URLs
+-Scan Images for QR codes
+-Scan PDFs for text and images -->Send images to qr code reader
+-Find way to pull images/files off of email 
+-Check majority language #Check 
