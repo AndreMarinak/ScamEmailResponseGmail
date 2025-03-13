@@ -5,5 +5,15 @@ gmail_token.json
 *_token.json
 
 # API keys and secrets
-
 *.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+
+#Me
+readmeprivate.md
